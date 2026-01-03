@@ -33,6 +33,29 @@ Dayflow HRMS solves these challenges by offering:
 - Clean and modern UI/UX
 
 ---
+<img width="1894" height="1000" alt="Screenshot 2026-01-03 162123" src="https://github.com/user-attachments/assets/c1cf9185-9210-4e05-bfaf-b842c9d73c1b" />
+
+<img width="1873" height="986" alt="Screenshot 2026-01-03 164630" src="https://github.com/user-attachments/assets/91e00a92-3e2d-4f3c-8e36-c7674bdd34d0" />
+
+<img width="1858" height="990" alt="Screenshot 2026-01-03 164702" src="https://github.com/user-attachments/assets/3affd8fb-497d-4b2e-9115-5ae6a776ef61" />
+
+<img width="1882" height="991" alt="Screenshot 2026-01-03 164749" src="https://github.com/user-attachments/assets/599c0423-8168-490b-9ca8-cd0453783776" />
+
+<img width="1875" height="979" alt="Screenshot 2026-01-03 164836" src="https://github.com/user-attachments/assets/b1490ee8-b9ec-459c-b77d-cf9253d3d711" />
+
+<img width="1880" height="981" alt="Screenshot 2026-01-03 164922" src="https://github.com/user-attachments/assets/0944a8ce-3014-4a91-9d3f-4ed4db038569" />
+
+<img width="1895" height="988" alt="Screenshot 2026-01-03 164937" src="https://github.com/user-attachments/assets/09bafbc4-ee91-48d9-baa1-3f882b248c74" />
+
+<img width="1885" height="977" alt="Screenshot 2026-01-03 165101" src="https://github.com/user-attachments/assets/c0397dfc-459d-4e10-801d-51673aee05ed" />
+
+<img width="1884" height="988" alt="Screenshot 2026-01-03 165115" src="https://github.com/user-attachments/assets/f8fffad7-c4e4-4e42-9340-26ab53009866" />
+
+<img width="1878" height="990" alt="Screenshot 2026-01-03 165211" src="https://github.com/user-attachments/assets/855615ad-1c51-477b-9851-cd6a9cb0a6b2" />
+
+<img width="1890" height="991" alt="Screenshot 2026-01-03 165225" src="https://github.com/user-attachments/assets/358a8674-b961-4012-b876-a23ee1a126bf" />
+
+<img width="1861" height="987" alt="Screenshot 2026-01-03 165253" src="https://github.com/user-attachments/assets/8749f4fb-dd58-4994-9493-067ce0b2d3a9" />
 
 ## ✨ Key Features
 
