@@ -3,24 +3,6 @@
 
 Dayflow HRMS is a modern, enterprise-style **Human Resource Management System** designed to streamline and automate core HR operations such as employee management, attendance tracking, leave management, and payroll processing through a clean, intuitive, and user-friendly interface.
 
----
-
-## 📌 Table of Contents
-- Introduction
-- Problem Statement
-- Solution Overview
-- Key Features
-- Application Modules
-- Technology Stack
-- System Workflow
-- Project Structure
-- Installation & Setup
-- User Roles
-- Future Scope
-- Team Details
-- License
-
----
 
 ## 📖 Introduction
 
@@ -155,3 +137,12 @@ Dayflow-HRMS/
 ├── screenshots/
 ├── README.md
 └── package.json
+
+⚙️ Installation & Setup
+git clone https://github.com/your-username/dayflow-hrms.git
+cd dayflow-hrms
+npm install
+npm start
+
+
+Configure MySQL database credentials in the backend configuration file before running the project.
