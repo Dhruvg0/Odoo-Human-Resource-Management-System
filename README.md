@@ -169,3 +169,7 @@ npm start
 
 
 Configure MySQL database credentials in the backend configuration file before running the project.
+## 👥 Contributors
+
+- **Reckt-poision**
+- **ganesh75690**
